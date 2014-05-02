@@ -27,3 +27,5 @@ var slideinFoxkehButton = document.querySelector("#slidein-foxkeh button");
 slideinFoxkehButton.addEventListener("click", startSlideinFoxkeh);
 //>>>>>>> origin/make_slidein_retriable
 　　//clickを押すとstartSlideinFoxkehが発動する
+　　
+　　
