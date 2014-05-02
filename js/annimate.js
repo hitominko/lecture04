@@ -35,3 +35,5 @@ var slideinFoxkehButton = document.querySelector("#slidein-foxkeh button");
    //#slidein-foxkeh buttonというボタンを置きます
 slideinFoxkehButton.addEventListener("click", startSlideinFoxkeh);
 　　//clickを押すとボタンが発動します
+　　
+　　
